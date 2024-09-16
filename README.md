@@ -10,7 +10,7 @@
 
 ### 🚀 Highlighted Projects
 
-- [**Ribuzz**](https://ribuzz.vercel.app/) - Platform for managing calendars and interactive maps, with payment integration and image handling. (Frontend in Next.js, Backend in NestJS).
+- [**Ribuzz**](https://ribuzz.vercel.app/) - Platform for connecting entrepreneurs with clients, featuring calendar management, interactive maps, payment integration, and image handling (Frontend: Next.js, Backend: NestJS).
 
 ---
 
