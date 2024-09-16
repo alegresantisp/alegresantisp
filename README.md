@@ -1,40 +1,40 @@
 ![Banner de Santiago Alegre](/bannerIn.jfif)
 
-# ¡Hola! 👋 Soy Santiago Alegre
+# Hi! 👋 I'm Santiago Alegre
 
-### 👨‍💻 Full Stack Developer Especializado en Front End
+### 👨‍💻 Full Stack Developer Specialized in Front End
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en la creación de aplicaciones web con tecnologías modernas. Disfruto trabajando tanto en el frontend como en el backend, siempre buscando aprender y mejorar mis habilidades.
-
----
-
-### 🚀 Proyectos Destacados
-
-- [**Ribuzz**](https://ribuzz.vercel.app/) - Plataforma de gestión de calendarios y mapas interactivos, con integración de pagos y manejo de imágenes. (Frontend en **Next.js**, Backend en **NestJS**).
+¡Welcome to my GitHub profile! I’m a passionate developer with experience in building web applications using modern technologies. I enjoy working both on the frontend and backend, always eager to learn and improve my skills.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 Highlighted Projects
+
+- [**Ribuzz**](https://ribuzz.vercel.app/) - Platform for managing calendars and interactive maps, with payment integration and image handling. (Frontend in Next.js, Backend in NestJS).
+
+---
+
+### 🛠️ Technologies and Tools
 
 - **Frontend:** React, Next.js, TailwindCSS, Formik, FullCalendar, Leaflet
 - **Backend:** NestJS, Node.js, TypeORM, PostgreSQL, JWT, Google OAuth
-- **Servicios:** Stripe (pagos), Cloudinary (gestión de imágenes), Render (deploy backend), Vercel (deploy frontend)
-- **Otros:** Git, Docker, APIs REST, GraphQL
+- **Servicios:** Services: Stripe (payments), Cloudinary (image management), Render (backend deployment), Vercel (frontend deployment)
+- **Others:** Git, Docker, APIs REST, GraphQL
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to Contact Me
 
 - **Email:** [alegresantisp@gmail.com](mailto:alegresanti@gmail.com)
 - **LinkedIn:** [Santiago Alegre](https://www.linkedin.com/in/santiago-alegre/)
-- **Teléfono:** +54 11 5938 9802
+- **Phone:** +54 11 5938 9802
 
 ---
 
-### ⚡ Algo sobre mí
+### ⚡ A Little About Me
 
-- 🌍 Vivo en Buenos Aires, Argentina.
-- 🚀 Siempre estoy trabajando en nuevos proyectos y buscando colaborar con la comunidad tech.
-- 🎯 Mis objetivos actuales: profundizar en Next.js, React y mejorar mis habilidades con Nest.js.
+- 🌍 I live in Buenos Aires, Argentina.
+- 🚀 I’m always working on new projects and looking to collaborate with the tech community.
+- 🎯 My current goals: delve deeper into Next.js, React, and improve my skills with Nest.js.
 
-Gracias por visitar mi perfil, ¡nos vemos en el código! 🚀
+Thank you for visiting my profile, see you in the code! 🚀
