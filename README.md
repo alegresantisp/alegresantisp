@@ -1,3 +1,5 @@
+![Banner de Santiago Alegre](/bannerIn.jfif)
+
 # ¡Hola! 👋 Soy Santiago Alegre
 
 ### 👨‍💻 Full Stack Developer Especializado en Front End
