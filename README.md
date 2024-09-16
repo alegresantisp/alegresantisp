@@ -16,16 +16,17 @@
 
 ### 🛠️ Technologies and Tools
 
-- **Frontend:** React, Next.js, TailwindCSS, Formik, FullCalendar, Leaflet
-- **Backend:** NestJS, Node.js, TypeORM, PostgreSQL, JWT, Google OAuth
-- **Servicios:** Stripe (payments), Cloudinary (image management), Render (backend deployment), Vercel (frontend deployment)
-- **Others:** Git, Docker, APIs REST, GraphQL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,typescript,html,css,tailwind,postgres,cloudinary,github,&perline=10" />
+  </a>
+</p>
 
 ---
 
 ### 📫 How to Contact Me
 
-- **Email:** [alegresantisp@gmail.com](mailto:alegresanti@gmail.com)
+- [alegresantisp@gmail.com](mailto:alegresanti@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alegre/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santialegree/)
 - **Phone:** +54 11 5938 9802
