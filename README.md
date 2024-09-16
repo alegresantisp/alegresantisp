@@ -18,7 +18,7 @@
 
 - **Frontend:** React, Next.js, TailwindCSS, Formik, FullCalendar, Leaflet
 - **Backend:** NestJS, Node.js, TypeORM, PostgreSQL, JWT, Google OAuth
-- **Servicios:** Services: Stripe (payments), Cloudinary (image management), Render (backend deployment), Vercel (frontend deployment)
+- **Servicios:** Stripe (payments), Cloudinary (image management), Render (backend deployment), Vercel (frontend deployment)
 - **Others:** Git, Docker, APIs REST, GraphQL
 
 ---
@@ -26,7 +26,8 @@
 ### 📫 How to Contact Me
 
 - **Email:** [alegresantisp@gmail.com](mailto:alegresanti@gmail.com)
-- **LinkedIn:** [Santiago Alegre](https://www.linkedin.com/in/santiago-alegre/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alegre/)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santialegree/)
 - **Phone:** +54 11 5938 9802
 
 ---
@@ -38,3 +39,4 @@
 - 🎯 My current goals: delve deeper into Next.js, React, and improve my skills with Nest.js.
 
 Thank you for visiting my profile, see you in the code! 🚀
+
