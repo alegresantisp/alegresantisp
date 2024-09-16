@@ -26,11 +26,12 @@
 
 ### 📫 How to Contact Me
 
-- [alegresantisp@gmail.com](mailto:alegresanti@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alegresantisp@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alegre/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santialegree/)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2321D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541159389802)  
 - **Phone:** +54 11 5938 9802
-
+  
 ---
 
 ### ⚡ A Little About Me
