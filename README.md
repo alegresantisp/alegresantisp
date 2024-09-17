@@ -14,6 +14,8 @@
 
 - [**DentistAppointment**](https://github.com/alegresantisp/dentistAppointment) - A dental clinic appointment system with calendar management and user authentication, built with **React**, **Node.js**, and **MongoDB**.
 
+- [**Ecommerce Platform**](https://github.com/alegresantisp/ecommerce) - A complete eCommerce solution with product listings, shopping cart, payment integration, and user authentication (Frontend: **React**, Backend: **Node.js**).
+
 ---
 
 ### 🛠️ Technologies and Tools
