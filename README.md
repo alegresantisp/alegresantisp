@@ -12,6 +12,8 @@
 
 - [**Ribuzz**](https://ribuzz.vercel.app/) - Platform for connecting entrepreneurs with clients, featuring calendar management, interactive maps, payment integration, and image handling (Frontend: Next.js, Backend: NestJS).
 
+- [**DentistAppointment**](https://github.com/alegresantisp/dentistAppointment) - A dental clinic appointment system with calendar management and user authentication, built with **React**, **Node.js**, and **MongoDB**.
+
 ---
 
 ### 🛠️ Technologies and Tools
