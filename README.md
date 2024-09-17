@@ -37,6 +37,18 @@
   
 ---
 
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=radical)](https://git.io/streak-stats)
+
+---
+
+### 🧑‍💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegresantisp&layout=compact&theme=radical)
+
+---
+
 ### ⚡ A Little About Me
 
 - 🌍 I live in Buenos Aires, Argentina.
@@ -44,4 +56,5 @@
 - 🎯 My current goals: delve deeper into Next.js, React, and improve my skills with Nest.js.
 
 Thank you for visiting my profile, see you in the code! 🚀
+
 
