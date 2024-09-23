@@ -12,6 +12,8 @@
 
 - [**Ribuzz**](https://ribuzz.vercel.app/) - Platform for connecting entrepreneurs with clients, featuring calendar management, interactive maps, payment integration, and image handling (Frontend: Next.js, Backend: NestJS).
 
+-  [**HabitTracker**](https://habits-sandy-omega.vercel.app/) - A healthy habit creation and tracking application designed to improve your life. This application allows users to set goals for healthy habits and monitor their progress over time, ensuring a structured approach to personal development. Built with **Next.js**, **Firebase**, **Tailwind CSS**, **Cloudinary**, **Node.js**, and more.
+
 - [**DentistAppointment**](https://github.com/alegresantisp/dentistAppointment) - A dental clinic appointment system with calendar management and user authentication, built with **React**, **Node.js**, and **MongoDB**.
 
 - [**Ecommerce Platform**](https://github.com/alegresantisp/ecommerce) - A complete eCommerce solution with product listings, shopping cart, payment integration, and user authentication (Frontend: **React**, Backend: **Node.js**).
