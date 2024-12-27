@@ -18,6 +18,8 @@
 
 - [**Ecommerce Platform**](https://github.com/alegresantisp/ecommerce) - A complete eCommerce solution with product listings, shopping cart, payment integration, and user authentication (Frontend: **React**, Backend: **Node.js**).
 
+- [**PocketCare**] (https://frontendmisgastos.vercel.app/)- Full-stack application to track and manage personal expenses. The backend is built with Nest.js and deployed on Render, while the frontend is built with Next.js and deployed on Vercel.
+
 ---
 
 ### 🛠️ Technologies and Tools
