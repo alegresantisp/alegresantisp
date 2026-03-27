@@ -1,73 +1,146 @@
-![Banner de Santiago Alegre](/bannerIn.jfif)
+# Hey 👋 I'm Santiago Alegre
 
-# Hi! 👋 I'm **Santiago Alegre**
+### 🚀 Full Stack Developer | Frontend Specialist | Co-Founder @ Eventito
 
-### 👨‍💻 Full Stack Developer | Frontend Specialist | Co-Founder of [Eventito](https://eventitoapp.com)
+I build **scalable, high-performance web applications** with a strong focus on **UX, architecture, and real-world impact**.
 
-Welcome to my GitHub profile!  
-I’m a passionate developer focused on building scalable, high-performance web applications with elegant UI and clean architecture.  
-I love bringing ideas to life through thoughtful design, modern frameworks, and an obsession with optimization.
+Currently crafting products that combine **modern frontend, robust backend systems, and smart automation**.
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 About Me
 
-- 🪩 [**Eventito**](https://eventitoapp.com) — **Co-Founder & Frontend Developer**  
-  A modern platform for creating and personalizing events, sending digital invitations, and tracking attendance in real time.  
-  Built with **Next.js**, **Tailwind CSS**, **Cloudinary**, **Docker**, and **AWS**, using a **FastAPI** backend.  
-  Includes dynamic multi-step forms, modals with route interception, and an intuitive dashboard for event management.
-
-- 🧠 [**Ribuzz**](https://ribuzz.vercel.app/) — Platform connecting entrepreneurs with clients through interactive maps, payment integration, and booking management.  
-  (Frontend: **Next.js**, Backend: **NestJS**)
-
-- 🧾 **ERP – Estudio Noble** *(Private Project)* — Custom ERP system for managing stock, sales cycles, and business data.  
-  Built with **Next.js**, **Airtable**, **Cloudinary**, and **TypeScript**, focusing on automation and intuitive dashboards.
-
-- 🧰 [**CMS for Proyectos CCV**](https://proyectosccv.com/) — Content management system for maintaining project pages and client data dynamically.  
-  Built with **Next.js**, **Tailwind CSS**, and **Cloudinary**.
+- 💻 Full Stack Developer specialized in **Frontend Architecture**
+- ⚡ Focused on **performance, scalability, and clean code**
+- 🧩 Strong product mindset — I don’t just code, I build solutions
+- 🚀 Co-Founder of **Eventito**, an event platform with real users
+- 🔍 Always learning: diving deeper into **system design & backend architecture**
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 Featured Projects
+
+### 🪩 Eventito — Event Platform (Co-Founder)
+
+👉 https://eventitoapp.com  
+
+A modern platform to **create, customize and manage events**, send invitations, and track attendance in real time.
+
+**Key Highlights:**
+- Dynamic multi-step forms with smart UX
+- Dashboard experience inspired by Netflix
+- Real-time attendance tracking
+- Mercado Pago integration for ticket sales
+- Scalable backend APIs
+
+**Tech Stack:**
+- Frontend: `Next.js`, `React`, `TypeScript`, `Tailwind`
+- Backend: `FastAPI (Python)`
+- Infra: `Docker`, `AWS`, `Cloudinary`
+- Architecture: SSR / ISR / Route Interception / Modular Design
+
+---
+
+### 🧠 Ribuzz — Entrepreneur Platform
+
+👉 https://ribuzz.vercel.app/
+
+Platform connecting entrepreneurs with clients through:
+- Interactive maps
+- Booking system
+- Payment integration
+
+**Stack:**
+- Frontend: `Next.js`
+- Backend: `NestJS`
+
+---
+
+### 🧾 ERP System — Business Management Platform *(Private)*
+
+Custom ERP for:
+- Stock management
+- Sales analytics (top / low products)
+- Cost tracking
+
+**Highlights:**
+- Automation-driven workflows
+- Data visualization dashboards
+- Scalable data structure
+
+**Stack:**
+- `Next.js`, `TypeScript`, `Firebase / Airtable`, `Cloudinary`
+
+---
+
+### 🧰 CMS — Proyectos CCV
+
+👉 https://proyectosccv.com/
+
+Custom CMS for dynamic content and client management.
+
+**Stack:**
+- `Next.js`, `Tailwind`, `Cloudinary`
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`  
+SSR · SSG · ISR · Performance Optimization · UX-first design  
+
+### ⚙️ Backend
+`Node.js` · `NestJS` · `FastAPI` · `Python`  
+REST APIs · Authentication · Scalable Architecture  
+
+### ☁️ DevOps & Infra
+`Docker` · `AWS` · `Cloudinary`  
+CI/CD · Deployments · Image optimization  
+
+### 🧩 Others
+`Firebase` · `Airtable` · `Git` · `GitHub`  
+
+---
+
+## 🧪 What I'm Focused On
+
+- ⚡ Advanced **Next.js patterns** (Server Components, caching, streaming)
+- 🧠 Backend architecture with **FastAPI & scalable APIs**
+- 🤖 AI integration into products (automation & smart features)
+- 📊 Building **data-driven dashboards**
+- 🚀 Performance & DX optimization
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,nestjs,cloudinary,aws,docker,airtable,git,github&perline=9" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegresantisp&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegresantisp&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact
 
-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alegresantisp@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-alegre-67b288193/)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santialegree/)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2321D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541159389802)  
-- **Phone:** +54 11 5938 9802
+- 📧 alegresantisp@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/santiago-alegre-67b288193/  
+- 📱 WhatsApp: +54 11 5938 9802  
 
 ---
 
-### ⚡ A Little About Me
+## ⚡ Fun Facts
 
-- 🌍 Based in Buenos Aires, Argentina.  
-- 💡 Co-Founder of **Eventito**, building digital event experiences.  
-- 🚀 Passionate about modern frontend development and clean architectures.  
-- 🎯 Focused on **Next.js**, **React**, and **NestJS**, exploring SSR, SSG, and performance optimization.  
-- 🧉 Mate, music, and creative design are part of my daily workflow.
+- 🧉 Mate is part of my dev stack  
+- 🎸 Musician — part of *Vino de Marte*  
+- 🎯 Obsessed with clean UI + smooth UX  
+- 💡 I enjoy turning complex ideas into simple products  
 
 ---
 
-Thank you for visiting my profile — see you in the code! 🚀
+### 🚀 “Build fast. Think deep. Keep it simple.”
 
+Thanks for stopping by 👋
 
