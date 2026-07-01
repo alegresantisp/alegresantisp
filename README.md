@@ -1,4 +1,4 @@
-<h1 align="center">Hey, soy Santiago Alegre 👋</h1>
+<h1 align="center">Hey, I'm Santiago Alegre 👋</h1>
 <h3 align="center">Full Stack Developer · Frontend Architecture Specialist · Co-Founder @ Eventito</h3>
 
 <p align="center">
@@ -22,45 +22,45 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About me
 
-Full Stack Developer enfocado en **arquitectura frontend y sistemas escalables**. No solo escribo código: diseño soluciones de producto de punta a punta, desde la UX hasta la infraestructura.
+Full Stack Developer focused on **frontend architecture and scalable systems**. I don't just write code — I design end-to-end product solutions, from UX to infrastructure.
 
-- 🪩 Co-Founder de **Eventito** — plataforma de eventos con usuarios reales en producción
-- ⚙️ Especializado en **Next.js avanzado** (Server Components, streaming, caching) y **FastAPI**
-- 🧩 Mentalidad de producto: priorizo impacto real por sobre "código por código"
-- 📈 Actualmente profundizando en **system design** y arquitecturas distribuidas
-- 🧉 Mate obligatorio, código opcional (mentira, ambos obligatorios)
+- 🪩 Co-Founder of **Eventito** — event platform with real users in production
+- ⚙️ Specialized in **advanced Next.js** (Server Components, streaming, caching) and **FastAPI**
+- 🧩 Product mindset: I prioritize real impact over "code for the sake of code"
+- 📈 Currently deepening my knowledge of **system design** and distributed architectures
+- 🧉 Mate is mandatory, sleep is optional
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-### 🪩 Eventito — Plataforma de eventos (Co-Founder)
+### 🪩 Eventito — Event Platform (Co-Founder)
 **[eventitoapp.com](https://eventitoapp.com)**
 
-Plataforma para crear, personalizar y gestionar eventos, con invitaciones digitales y seguimiento de asistencia en tiempo real.
+A platform to create, customize, and manage events, with digital invitations and real-time attendance tracking.
 
-- Formularios multi-step con UX dinámica
-- Dashboard inspirado en el diseño de Netflix
-- Tracking de asistencia en tiempo real
-- Integración con Mercado Pago para venta de tickets
-- Backend con APIs escalables
+- Dynamic multi-step forms with smart UX
+- Dashboard experience inspired by Netflix
+- Real-time attendance tracking
+- Mercado Pago integration for ticket sales
+- Scalable backend APIs
 
 `Next.js` `React` `TypeScript` `Tailwind` `FastAPI` `Docker` `AWS` `Cloudinary`
 
 ---
 
-### 🧾 ERP System — Plataforma de gestión empresarial *(Privado)*
+### 🧾 ERP System — Business Management Platform *(Private)*
 
-Sistema ERP a medida que cubre:
+Custom-built ERP covering:
 
-- WMS (gestión de depósito y stock)
-- Motor de cotizaciones con reglas de precio especializadas
-- Analítica de ventas (productos top / bajo rendimiento)
-- Seguimiento de costos y rentabilidad
-- Operaciones de depósito y gestión comercial
-- Dashboards interactivos de visualización de datos
+- WMS (warehouse & inventory management)
+- Quotation engine with specialized pricing rules
+- Sales analytics (best-selling / low-performing products)
+- Cost tracking & profitability analysis
+- Warehouse operations & commercial workflows
+- Interactive data visualization dashboards
 
 `Next.js` `TypeScript` `FastAPI` `Python` `Cloudinary`
 
@@ -69,31 +69,31 @@ Sistema ERP a medida que cubre:
 ### 🧰 CMS — Proyectos CCV
 **[proyectosccv.com](https://proyectosccv.com/)**
 
-CMS a medida para gestión de contenido dinámico y clientes.
+Custom CMS for dynamic content and client management.
 
 `Next.js` `Tailwind` `Cloudinary`
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,nestjs,python,fastapi,docker,aws,firebase,git,github&theme=dark" />
 </p>
 
 **Frontend** — React · Next.js · TypeScript · Tailwind CSS — SSR/SSG/ISR, performance, UX-first design
-**Backend** — Node.js · NestJS · FastAPI (Python) — REST APIs, auth, arquitectura escalable
-**DevOps** — Docker · AWS · Cloudinary — CI/CD, deploys, optimización de imágenes
-**Otros** — Firebase · Airtable · Git
+**Backend** — Node.js · NestJS · FastAPI (Python) — REST APIs, auth, scalable architecture
+**DevOps** — Docker · AWS · Cloudinary — CI/CD, deployments, image optimization
+**Others** — Firebase · Airtable · Git
 
 ---
 
-## 🧪 En lo que estoy trabajando ahora
+## 🧪 Currently Focused On
 
-- ⚡ Patrones avanzados de Next.js (Server Components, streaming, caching)
-- 🧠 Arquitectura backend escalable con FastAPI
-- 🤖 Integración de IA en producto (automatización y features inteligentes)
-- 📊 Dashboards data-driven
+- ⚡ Advanced Next.js patterns (Server Components, streaming, caching)
+- 🧠 Scalable backend architecture with FastAPI
+- 🤖 AI integration into products (automation & smart features)
+- 📊 Data-driven dashboards
 
 ---
 
@@ -101,7 +101,7 @@ CMS a medida para gestión de contenido dinámico y clientes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alegresantisp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=alegresantisp&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -112,14 +112,22 @@ CMS a medida para gestión de contenido dinámico y clientes.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alegresantisp&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alegresantisp&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alegresantisp/alegresantisp/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
-## ⚡ Fun facts
+## ⚡ Fun Facts
 
-- 🎸 Músico — toco en *Vino de Marte*
-- 🧉 El mate es parte de mi stack de desarrollo
-- 🎯 Obsesionado con UI limpia + UX fluida
-- 💡 Disfruto convertir ideas complejas en productos simples
+- 🎸 Musician — part of *Vino de Marte*
+- 🧉 Mate is part of my dev stack
+- 🎯 Obsessed with clean UI + smooth UX
+- 💡 I enjoy turning complex ideas into simple products
 
 ---
 
