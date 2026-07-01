@@ -1,136 +1,134 @@
-# Santiago Alegre
+<h1 align="center">Hey, soy Santiago Alegre 👋</h1>
+<h3 align="center">Full Stack Developer · Frontend Architecture Specialist · Co-Founder @ Eventito</h3>
 
-**Full Stack Engineer · Product Builder · Co-Founder @ Eventito**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Building+scalable+web+products;Next.js+%7C+FastAPI+%7C+TypeScript;Turning+complex+ideas+into+simple+UX" alt="Typing SVG" />
+</p>
 
-I design and build digital products with a strong focus on **architecture, performance, scalability, and user experience**.
-
-My work sits at the intersection of **frontend excellence, backend systems, and product thinking** — transforming complex business needs into fast, maintainable, and production-ready platforms.
-
-Currently focused on building systems that scale through **clean architecture, automation, and modern web technologies**.
-
----
-
-## About
-
-* Full Stack Engineer with deep specialization in **Frontend Architecture**
-* Experienced building **production systems from idea → launch → scale**
-* Strong focus on **performance, maintainability, and developer experience**
-* Product-oriented mindset with business impact as the main KPI
-* Interested in **system design, backend architecture, and AI-driven workflows**
-
----
-
-# Selected Work
-
-## Eventito — Event Management Platform
-
-**Co-Founder · Product & Engineering**
-
-🔗 https://eventitoapp.com
-
-End-to-end platform to create, customize and operate events with a seamless user experience and scalable infrastructure.
-
-### Highlights
-
-* Multi-step event creation flows optimized for conversion
-* Real-time invitation and attendance management
-* Ticket purchasing with Mercado Pago integration
-* Dashboard experience designed around engagement
-* Modular architecture prepared for continuous growth
-
-### Stack
-
-`Next.js` · `React` · `TypeScript`
-`FastAPI` · `Python`
-`AWS` · `Docker` · `Cloudinary`
-
-**Architecture:**
-SSR · ISR · Route Interception · Modular Design · API-driven systems
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-alegre-67b288193/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:alegresantisp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5491159389802">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://eventitoapp.com">
+    <img src="https://img.shields.io/badge/Eventito-live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ERP Platform *(Private)*
+## 🧠 Sobre mí
 
-**Business Management & Operations System**
+Full Stack Developer enfocado en **arquitectura frontend y sistemas escalables**. No solo escribo código: diseño soluciones de producto de punta a punta, desde la UX hasta la infraestructura.
 
-Custom ERP designed to centralize business operations and improve decision-making through automation and operational visibility.
-
-### Modules
-
-* Warehouse Management (WMS)
-* Inventory & Stock Control
-* Commercial Operations
-* Advanced Quotation Engine
-* Order Lifecycle Management
-* Cost & Profitability Analytics
-* Sales Intelligence
-* Deposit / Warehouse Operations
-
-### Highlights
-
-* Workflow automation across business processes
-* Real-time dashboards and operational insights
-* Flexible pricing architecture adapted to business rules
-* Modular structure for long-term scalability
-* Data-driven decision support
-
-### Stack
-
-`Next.js` · `TypeScript`
-`FastAPI` · `Python`
-`Cloudinary`
+- 🪩 Co-Founder de **Eventito** — plataforma de eventos con usuarios reales en producción
+- ⚙️ Especializado en **Next.js avanzado** (Server Components, streaming, caching) y **FastAPI**
+- 🧩 Mentalidad de producto: priorizo impacto real por sobre "código por código"
+- 📈 Actualmente profundizando en **system design** y arquitecturas distribuidas
+- 🧉 Mate obligatorio, código opcional (mentira, ambos obligatorios)
 
 ---
 
-## Proyectos CCV — Custom CMS
+## 🚀 Proyectos destacados
 
-🔗 https://proyectosccv.com/
+### 🪩 Eventito — Plataforma de eventos (Co-Founder)
+**[eventitoapp.com](https://eventitoapp.com)**
 
-Content and client management platform built for flexibility and operational autonomy.
+Plataforma para crear, personalizar y gestionar eventos, con invitaciones digitales y seguimiento de asistencia en tiempo real.
 
-### Stack
+- Formularios multi-step con UX dinámica
+- Dashboard inspirado en el diseño de Netflix
+- Tracking de asistencia en tiempo real
+- Integración con Mercado Pago para venta de tickets
+- Backend con APIs escalables
 
-`Next.js` · `Tailwind` · `Cloudinary`
-
----
-
-# Engineering Stack
-
-### Frontend
-
-`React` · `Next.js` · `TypeScript`
-SSR · ISR · Performance Optimization · Design Systems
-
-### Backend
-
-`FastAPI` · `Python` · `Node.js` · `NestJS`
-REST APIs · Authentication · Modular Services
-
-### Infrastructure
-
-`Docker` · `AWS` · CI/CD · Image Optimization
-
-### Data & Tools
-
-`Firebase` · `Airtable` · `Git` · `GitHub`
+`Next.js` `React` `TypeScript` `Tailwind` `FastAPI` `Docker` `AWS` `Cloudinary`
 
 ---
 
-# Current Focus
+### 🧾 ERP System — Plataforma de gestión empresarial *(Privado)*
 
-* Building scalable applications with **Next.js & FastAPI**
-* Designing resilient backend architectures
-* AI-powered product experiences
-* Performance optimization & DX
-* System design and long-term maintainability
+Sistema ERP a medida que cubre:
 
----
+- WMS (gestión de depósito y stock)
+- Motor de cotizaciones con reglas de precio especializadas
+- Analítica de ventas (productos top / bajo rendimiento)
+- Seguimiento de costos y rentabilidad
+- Operaciones de depósito y gestión comercial
+- Dashboards interactivos de visualización de datos
 
-## Contact
-
-📧 [alegresantisp@gmail.com](mailto:alegresantisp@gmail.com)
-💼 LinkedIn → linkedin.com/in/santiago-alegre-67b288193
+`Next.js` `TypeScript` `FastAPI` `Python` `Cloudinary`
 
 ---
 
-> Build products. Design systems. Scale thoughtfully.
+### 🧰 CMS — Proyectos CCV
+**[proyectosccv.com](https://proyectosccv.com/)**
+
+CMS a medida para gestión de contenido dinámico y clientes.
+
+`Next.js` `Tailwind` `Cloudinary`
+
+---
+
+## 🛠️ Stack técnico
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,nestjs,python,fastapi,docker,aws,firebase,git,github&theme=dark" />
+</p>
+
+**Frontend** — React · Next.js · TypeScript · Tailwind CSS — SSR/SSG/ISR, performance, UX-first design
+**Backend** — Node.js · NestJS · FastAPI (Python) — REST APIs, auth, arquitectura escalable
+**DevOps** — Docker · AWS · Cloudinary — CI/CD, deploys, optimización de imágenes
+**Otros** — Firebase · Airtable · Git
+
+---
+
+## 🧪 En lo que estoy trabajando ahora
+
+- ⚡ Patrones avanzados de Next.js (Server Components, streaming, caching)
+- 🧠 Arquitectura backend escalable con FastAPI
+- 🤖 Integración de IA en producto (automatización y features inteligentes)
+- 📊 Dashboards data-driven
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alegresantisp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegresantisp&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alegresantisp&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## ⚡ Fun facts
+
+- 🎸 Músico — toco en *Vino de Marte*
+- 🧉 El mate es parte de mi stack de desarrollo
+- 🎯 Obsesionado con UI limpia + UX fluida
+- 💡 Disfruto convertir ideas complejas en productos simples
+
+---
+
+<p align="center">
+  <i>"Build fast. Think deep. Keep it simple."</i>
+</p>
+
+<p align="center">
+  <a href="mailto:alegresantisp@gmail.com">alegresantisp@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/santiago-alegre-67b288193/">LinkedIn</a> ·
+  <a href="https://wa.me/5491159389802">WhatsApp</a>
+</p>
