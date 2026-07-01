@@ -1,138 +1,136 @@
-# Hey 👋 I'm Santiago Alegre
+# Santiago Alegre
 
-### 🚀 Full Stack Developer | Frontend Specialist | Co-Founder @ Eventito
+**Full Stack Engineer · Product Builder · Co-Founder @ Eventito**
 
-I build **scalable, high-performance web applications** with a strong focus on **UX, architecture, and real-world impact**.
+I design and build digital products with a strong focus on **architecture, performance, scalability, and user experience**.
 
-Currently crafting products that combine **modern frontend, robust backend systems, and smart automation**.
+My work sits at the intersection of **frontend excellence, backend systems, and product thinking** — transforming complex business needs into fast, maintainable, and production-ready platforms.
 
----
-
-## 🧠 About Me
-
-- 💻 Full Stack Developer specialized in **Frontend Architecture**
-- ⚡ Focused on **performance, scalability, and clean code**
-- 🧩 Strong product mindset — I don’t just code, I build solutions
-- 🚀 Co-Founder of **Eventito**, an event platform with real users
-- 🔍 Always learning: diving deeper into **system design & backend architecture**
+Currently focused on building systems that scale through **clean architecture, automation, and modern web technologies**.
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🪩 Eventito — Event Platform (Co-Founder)
-
-👉 https://eventitoapp.com  
-
-A modern platform to **create, customize and manage events**, send invitations, and track attendance in real time.
-
-**Key Highlights:**
-- Dynamic multi-step forms with smart UX
-- Dashboard experience inspired by Netflix
-- Real-time attendance tracking
-- Mercado Pago integration for ticket sales
-- Scalable backend APIs
-
-**Tech Stack:**
-- Frontend: `Next.js`, `React`, `TypeScript`, `Tailwind`
-- Backend: `FastAPI (Python)`
-- Infra: `Docker`, `AWS`, `Cloudinary`
-- Architecture: SSR / ISR / Route Interception / Modular Design
+* Full Stack Engineer with deep specialization in **Frontend Architecture**
+* Experienced building **production systems from idea → launch → scale**
+* Strong focus on **performance, maintainability, and developer experience**
+* Product-oriented mindset with business impact as the main KPI
+* Interested in **system design, backend architecture, and AI-driven workflows**
 
 ---
 
-### 🧾 ERP System — Business Management Platform *(Private)*
+# Selected Work
 
-Custom ERP for:
-- WMS (Warehouse Management System)
-- Stock & inventory management
-- Advanced quotation system with specialized pricing workflows
-- Sales analytics (best-selling / low-performing products)
-- Cost tracking & profitability analysis
-- Deposit / warehouse operations
-- Commercial management & order workflows
+## Eventito — Event Management Platform
 
+**Co-Founder · Product & Engineering**
 
-**Highlights:**
-- Automation-driven business processes
-- Interactive data visualization dashboards
-- Scalable and modular architecture
-- Custom quotation engine adapted to business rules
-- Real-time operational visibility
+🔗 https://eventitoapp.com
 
-**Stack:**
-- `Next.js`, `TypeScript`, `FastAPI / Python`, `Cloudinary`
+End-to-end platform to create, customize and operate events with a seamless user experience and scalable infrastructure.
 
----
+### Highlights
 
-### 🧰 CMS — Proyectos CCV
+* Multi-step event creation flows optimized for conversion
+* Real-time invitation and attendance management
+* Ticket purchasing with Mercado Pago integration
+* Dashboard experience designed around engagement
+* Modular architecture prepared for continuous growth
 
-👉 https://proyectosccv.com/
+### Stack
 
-Custom CMS for dynamic content and client management.
+`Next.js` · `React` · `TypeScript`
+`FastAPI` · `Python`
+`AWS` · `Docker` · `Cloudinary`
 
-**Stack:**
-- `Next.js`, `Tailwind`, `Cloudinary`
+**Architecture:**
+SSR · ISR · Route Interception · Modular Design · API-driven systems
 
 ---
 
-## 🛠️ Tech Stack
+## ERP Platform *(Private)*
 
-### 👨‍💻 Frontend
-`React` · `Next.js` · `TypeScript` · `Tailwind CSS`  
-SSR · SSG · ISR · Performance Optimization · UX-first design  
+**Business Management & Operations System**
 
-### ⚙️ Backend
-`Node.js` · `NestJS` · `FastAPI` · `Python`  
-REST APIs · Authentication · Scalable Architecture  
+Custom ERP designed to centralize business operations and improve decision-making through automation and operational visibility.
 
-### ☁️ DevOps & Infra
-`Docker` · `AWS` · `Cloudinary`  
-CI/CD · Deployments · Image optimization  
+### Modules
 
-### 🧩 Others
-`Firebase` · `Airtable` · `Git` · `GitHub`  
+* Warehouse Management (WMS)
+* Inventory & Stock Control
+* Commercial Operations
+* Advanced Quotation Engine
+* Order Lifecycle Management
+* Cost & Profitability Analytics
+* Sales Intelligence
+* Deposit / Warehouse Operations
 
----
+### Highlights
 
-## 🧪 What I'm Focused On
+* Workflow automation across business processes
+* Real-time dashboards and operational insights
+* Flexible pricing architecture adapted to business rules
+* Modular structure for long-term scalability
+* Data-driven decision support
 
-- ⚡ Advanced **Next.js patterns** (Server Components, caching, streaming)
-- 🧠 Backend architecture with **FastAPI & scalable APIs**
-- 🤖 AI integration into products (automation & smart features)
-- 📊 Building **data-driven dashboards**
-- 🚀 Performance & DX optimization
+### Stack
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alegresantisp&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alegresantisp&layout=compact&theme=radical" />
-</p>
+`Next.js` · `TypeScript`
+`FastAPI` · `Python`
+`Cloudinary`
 
 ---
 
-## 📫 Contact
+## Proyectos CCV — Custom CMS
 
-- 📧 alegresantisp@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/santiago-alegre-67b288193/  
-- 📱 WhatsApp: +54 11 5938 9802  
+🔗 https://proyectosccv.com/
 
----
+Content and client management platform built for flexibility and operational autonomy.
 
-## ⚡ Fun Facts
+### Stack
 
-- 🧉 Mate is part of my dev stack  
-- 🎸 Musician — part of *Vino de Marte*  
-- 🎯 Obsessed with clean UI + smooth UX  
-- 💡 I enjoy turning complex ideas into simple products  
+`Next.js` · `Tailwind` · `Cloudinary`
 
 ---
 
-### 🚀 “Build fast. Think deep. Keep it simple.”
+# Engineering Stack
 
-Thanks for stopping by 👋
+### Frontend
 
+`React` · `Next.js` · `TypeScript`
+SSR · ISR · Performance Optimization · Design Systems
+
+### Backend
+
+`FastAPI` · `Python` · `Node.js` · `NestJS`
+REST APIs · Authentication · Modular Services
+
+### Infrastructure
+
+`Docker` · `AWS` · CI/CD · Image Optimization
+
+### Data & Tools
+
+`Firebase` · `Airtable` · `Git` · `GitHub`
+
+---
+
+# Current Focus
+
+* Building scalable applications with **Next.js & FastAPI**
+* Designing resilient backend architectures
+* AI-powered product experiences
+* Performance optimization & DX
+* System design and long-term maintainability
+
+---
+
+## Contact
+
+📧 [alegresantisp@gmail.com](mailto:alegresantisp@gmail.com)
+💼 LinkedIn → linkedin.com/in/santiago-alegre-67b288193
+
+---
+
+> Build products. Design systems. Scale thoughtfully.
