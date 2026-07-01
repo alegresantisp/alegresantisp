@@ -41,35 +41,27 @@ A modern platform to **create, customize and manage events**, send invitations, 
 
 ---
 
-### 🧠 Ribuzz — Entrepreneur Platform
-
-👉 https://ribuzz.vercel.app/
-
-Platform connecting entrepreneurs with clients through:
-- Interactive maps
-- Booking system
-- Payment integration
-
-**Stack:**
-- Frontend: `Next.js`
-- Backend: `NestJS`
-
----
-
 ### 🧾 ERP System — Business Management Platform *(Private)*
 
 Custom ERP for:
-- Stock management
-- Sales analytics (top / low products)
-- Cost tracking
+- WMS (Warehouse Management System)
+- Stock & inventory management
+- Advanced quotation system with specialized pricing workflows
+- Sales analytics (best-selling / low-performing products)
+- Cost tracking & profitability analysis
+- Deposit / warehouse operations
+- Commercial management & order workflows
+
 
 **Highlights:**
-- Automation-driven workflows
-- Data visualization dashboards
-- Scalable data structure
+- Automation-driven business processes
+- Interactive data visualization dashboards
+- Scalable and modular architecture
+- Custom quotation engine adapted to business rules
+- Real-time operational visibility
 
 **Stack:**
-- `Next.js`, `TypeScript`, `Firebase / Airtable`, `Cloudinary`
+- `Next.js`, `TypeScript`, `FastAPI / Python`, `Cloudinary`
 
 ---
 
